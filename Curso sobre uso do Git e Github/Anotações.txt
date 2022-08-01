@@ -1,1 +1,5 @@
 01/02/22 Por enquanto não achei nada muito relevante para anotar.
+
+Depois que se criou um arquivo na máquina local, o arquivo deve ser incluído no track do Git, através do comando "git add ." ou "git add *"
+Depois deve-se commitar através do comando "git commit -m 'mensagem sobre o que está sendo encaminhado'"
+Para mandar este commit para a nuvem, deve-se dar um push através do comando "git push origin main"
